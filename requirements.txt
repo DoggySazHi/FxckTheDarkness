@@ -1,0 +1,2 @@
+selenium == 4.17.2
+chromedriver-py == 120.0.6099.109
