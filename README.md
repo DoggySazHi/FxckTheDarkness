@@ -4,6 +4,9 @@ oops, my bad
 ## Usage
 ```shell
 pip install -r requirements.txt
+cp config.example.json config.json
+# Edit config.json
+vim config.json  # or nano, or whatever I don't care
 python3 main.py
 ```
 
@@ -12,6 +15,11 @@ python3 main.py
   - Mostly automatic time-in/out, instead of cron scripts
 - [ ] Add more bugs
 - [ ] Add more documentation
+
+## Name
+it was the name of some degenerate song i was listening to
+
+good luck finding it unless you're on the thbwiki 
 
 ## License
 ```
